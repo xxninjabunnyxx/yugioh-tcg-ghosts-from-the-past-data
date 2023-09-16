@@ -1,0 +1,45 @@
+---
+id: 24361622
+name: Hieratic Seal of the Heavenly Spheres
+type: Link Monster
+frameType: link
+desc: "2 Dragon monsters\r\nOnce per opponent's turn, if this card is in the Extra
+  Monster Zone (Quick Effect): You can Tribute 1 monster from your hand or field;
+  return 1 face-up card on the field to the hand. If this card is Tributed: Special
+  Summon 1 Dragon monster from your hand or Deck, but make its ATK/DEF 0. You can
+  only use this effect of \"Hieratic Seal of the Heavenly Spheres\" once per turn."
+atk: 0
+race: Dragon
+attribute: LIGHT
+archetype: Hieratic
+linkval: 2
+linkmarkers:
+- Bottom-Left
+- Bottom-Right
+card_sets:
+- set_name: 'Battles of Legend: Crystal Revenge'
+  set_code: BLCR-EN090
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+- set_name: Duel Power
+  set_code: DUPO-EN027
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '6.41'
+- set_name: Ghosts From the Past
+  set_code: GFTP-EN053
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '7.87'
+card_images:
+- id: 24361622
+  image_url: https://images.ygoprodeck.com/images/cards/24361622.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/24361622.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/24361622.jpg
+card_prices:
+- cardmarket_price: '0.39'
+  tcgplayer_price: '0.27'
+  ebay_price: '2.85'
+  amazon_price: '7.97'
+  coolstuffinc_price: '0.99'
